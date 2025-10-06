@@ -1,10 +1,10 @@
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - Fitbit
 
-Submitted by: **Your Name Here**
+Submitted by: Jaylyn Lowes
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+Fitbit is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 2.5 hours spent in total
 
 ## Required Features
 
